@@ -1,5 +1,3 @@
-# proto_dycore
-
 
 <img src="icon.png" width="559" height="212" border="0" alt="proto dycore" />
 
