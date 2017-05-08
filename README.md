@@ -1,7 +1,7 @@
 # proto_dycore
 
 
-![icon](./icon.png)
+<img src="icon.png" width="559" height="212" border="0" alt="proto dycore" />
 
 
 Prototype design of a field management layer for a dycore using GridTools. 
