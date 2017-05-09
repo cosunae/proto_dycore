@@ -52,7 +52,7 @@ Still the placeholders can not store in runtime containers since the type of eac
 Runtime binding of the placeholders
 ==================
 
-These other alternative proposes to do the binding between the placeholder and the storage using a runtime API. 
+This other alternative proposes to do the binding between the placeholder and the storage using a runtime API. 
 In this proposal, the placeholders are not stored nor managed by the field_pool but instead they are locally instantiated in the scope of construction of the stencil.
 
 ```
