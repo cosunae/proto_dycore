@@ -1,5 +1,5 @@
 
-<img src="icon.png" width="559" height="212" border="0" alt="proto dycore" />
+<img src="icon.png" align="middle" width="500" height="200" border="0" alt="proto dycore" />
 
 
 Prototype design of a field management layer for a dycore using GridTools. 
